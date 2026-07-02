@@ -2,14 +2,14 @@
 ### Cybersecurity Professional | SOC Analyst | Penetration Tester in Training
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-usman-cyber)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%202%25-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/muhammadusman.khurram2007)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%201%25-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/muhammadusman.khurram2007)
 [![Email](https://img.shields.io/badge/Email-Contact-green?style=flat&logo=gmail)](mailto:muhammadusman.khurram2007@gmail.com)
 
 ---
 
 ## About Me
 
-Self-taught cybersecurity professional from Pakistan with a strong foundation in SOC operations, network security, and penetration testing fundamentals. Currently ranked in the **Top 2% on TryHackMe** globally out of millions of users.
+Self-taught cybersecurity professional from Pakistan with a strong foundation in SOC operations, network security, and penetration testing fundamentals. Currently ranked in the **Top 1% on TryHackMe** globally out of millions of users.
 
 Actively targeting remote global SOC L1 roles while building practical skills through hands-on labs, real-world investigations, and bug bounty hunting.
 
@@ -30,6 +30,8 @@ Actively targeting remote global SOC L1 roles while building practical skills th
 | IBM & ISC2 Cybersecurity Specialist | IBM & ISC2 | ✅ Complete |
 | Ethical Hacking via Kali Linux Specialization | EDUCBA | ✅ Complete |
 | Linux Foundation Certified Associate (LFCA) | Linux Foundation | ✅ Complete |
+| Jr Penetration Tester | TryHackMe | ✅ Complete |
+| Network Fundamentals | Cisco Networking Academy |  ✅ Complete |
 
 ---
 
@@ -106,16 +108,15 @@ Hacker101 and other CTF challenge writeups with detailed methodology.
 
 [![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/muhammadusman.khurram2007.png)](https://tryhackme.com/p/muhammadusman.khurram2007)
 
-- 🏆 **Top 2% globally** out of millions of users
+- 🏆 **Top 1% globally** out of millions of users
 - ✅ **SOC L1 Pathway** — Complete
-- 🔄 **Jr Penetration Tester Pathway** — In Progress
-- 🥇 **26+ Badges** earned
+- 🔄 **Jr Penetration Tester Pathway** — Complete
+- 🥇 **30+ Badges** earned
 
 ---
 
 ## Currently Learning
 
-- 🌐 Cisco Network Fundamentals Specialization
 - 🕸️ Web application penetration testing
 - 🐛 Bug bounty methodology via PortSwigger Web Academy and Hacker101
 - 🐍 Python for Cybersecurity
