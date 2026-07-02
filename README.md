@@ -13,9 +13,7 @@ Self-taught cybersecurity professional from Pakistan with a strong foundation in
 
 Actively targeting remote global SOC L1 roles while building practical skills through hands-on labs, real-world investigations, and bug bounty hunting.
 
-- 🔍 Currently completing **TryHackMe Jr Penetration Tester** pathway
 - 🐛 Building toward active **bug bounty hunting** on HackerOne and Bugcrowd
-- 📚 Studying **network fundamentals** via Cisco Networking Academy
 - 🌍 Open to **remote opportunities globally**
 - 💬 Posting weekly cybersecurity content to **3000+ LinkedIn followers**
 
