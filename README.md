@@ -1,50 +1,148 @@
-# Muhammad Usman Khurram — Cybersecurity Portfolio
+# Muhammad Usman Khurram | Cybersecurity Portfolio
 
-A responsive, static portfolio website showcasing my work across SOC operations, Splunk SIEM, threat detection, incident response, web application security, vulnerability research, and AI security.
+🌐 **[Visit My Live Portfolio](https://muhammad-usman-cyber.github.io/Portfolio/)**
 
-## What's included
+Cybersecurity student and aspiring SOC Analyst focused on threat detection, incident response, web application security, vulnerability research, and AI Security.
 
-- `index.html` — portfolio content and structure
-- `styles.css` — responsive design system and visual styling
-- `script.js` — mobile navigation, project filters, accessible project carousel controls, active section navigation, scroll progress, reveal transitions, and back-to-top control
+My approach is simple: **learn the concepts, apply them in practical environments, document the evidence, and understand how to improve security.**
 
-## Design and interactions
+---
 
-- Responsive editorial-style layout with dark hero and light content sections
-- Horizontally scrollable project carousel with touch/trackpad support, previous/next controls, pagination dots, and keyboard navigation
-- Project category filters that work with the carousel
-- Scroll progress indicator and back-to-top control
-- Active navigation state and subtle reveal-on-scroll effects
-- Honors `prefers-reduced-motion`; no build tool or external JavaScript framework is required
+## 👨‍💻 About Me
 
-## Run locally
+I'm pursuing a BS in Cybersecurity at Air University, Karachi, and building my career through hands-on labs, independent security research, practical projects, and cybersecurity internships.
 
-No build tools, package manager, backend, or API keys are required. Open `index.html` in a browser, or serve the folder using any static web server.
+My primary career focus is Security Operations and threat detection. Alongside this, I'm developing practical experience in web application security and exploring AI Security as a growing specialization.
 
-## Publish with GitHub Pages
+I aim to understand both how vulnerabilities are discovered and how security teams can detect, investigate, and respond to threats.
 
-1. Create a public repository, for example `muhammad-usman-portfolio`.
-2. Upload `index.html`, `styles.css`, `script.js`, and `README.md` to the repository root.
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, select **Deploy from a branch**.
-5. Select the `main` branch and `/ (root)` folder, then save.
-6. Wait for GitHub Pages to publish the site and open the URL shown in Settings → Pages.
+## 🎯 Areas of Focus
 
-## Before publishing
+- **SOC & Threat Detection** — Splunk SIEM, Sysmon, log analysis, security monitoring, and MITRE ATT&CK-mapped detections.
+- **Incident Response** — Alert investigation, evidence collection, attack timeline reconstruction, and structured incident response.
+- **Web Application Security** — OWASP Top 10, API security, access-control weaknesses, SQL injection analysis, and cross-site scripting.
+- **Vulnerability Research** — Authorized security testing, vulnerability validation, impact assessment, and responsible disclosure.
+- **AI Security** — LLM security, prompt injection, jailbreaking, RAG security, data poisoning, and AI supply-chain risks.
 
-- Verify all links and confirm that any project repository is public.
-- Replace any detail that has changed since the resume was prepared.
-- Ensure that vulnerability research details are safe to disclose and consistent with each program's policy and disclosure status.
-- Keep AI lab limitations clear: the prompt and RAG projects are educational simulations, not production-grade security controls.
-- Check the live site on mobile and desktop.
+## 🛠️ Featured Projects
 
-## Notes on accuracy
+### 1. SOC Home Lab — Splunk SIEM
 
-This portfolio describes practical learning and project work, not senior-level production ownership. Skills are presented as focus areas and hands-on practice. Sensitive or unremediated vulnerability details are not published here.
+Built a practical SOC environment using Splunk Enterprise, Sysmon, a Windows target, and a Kali Linux attacker machine.
 
-## Contact
+**Highlights**
+- Ingested and investigated Windows security telemetry.
+- Simulated reconnaissance, brute-force authentication attempts, and encoded PowerShell activity.
+- Developed custom Splunk detection searches mapped to MITRE ATT&CK.
+- Created an investigation dashboard and documented the lab's troubleshooting process.
 
-- LinkedIn: https://www.linkedin.com/in/muhammad-usman-cyber
-- GitHub: https://github.com/Muhammad-Usman-cyber
-- TryHackMe: https://tryhackme.com/p/MuhammadUsman7
-- Email: muhammadusman.khurram2007@gmail.com
+**Focus:** SIEM · SPL · Sysmon · Threat Detection · MITRE ATT&CK
+
+### 2. Prompt Lab
+
+An interactive browser-based project for learning prompt engineering through practical exercises, heuristic scoring, feedback, and before-and-after comparisons.
+
+**[Live Demo](https://muhammad-usman-cyber.github.io/prompt-lab/) · [Source Code](https://github.com/Muhammad-Usman-cyber/prompt-lab)**
+
+### 3. Prompt Injection Defense Lab
+
+An educational AI Security lab exploring direct and indirect prompt injection, instruction hijacking, context manipulation, and defensive prompt-design techniques.
+
+The application uses simulated AI responses and rule-based scoring to help learners understand attack and defense concepts.
+
+**[Live Demo](https://muhammad-usman-cyber.github.io/prompt-injection-defense-lab/)**
+
+### 4. RAG Security Lab
+
+An interactive learning project focused on Retrieval-Augmented Generation security, demonstrating RAG-specific attack scenarios alongside corresponding defensive techniques.
+
+**[Live Demo](https://muhammad-usman-cyber.github.io/rag-security-lab/)**
+
+### 5. Web Application Security Audit
+
+Performed a security audit against a locally hosted OWASP Juice Shop training environment using browser developer tools and OWASP ZAP.
+
+**Highlights**
+- Investigated database-error behavior and a ZAP-flagged SQL injection indicator.
+- Demonstrated DOM-based XSS in the practice application.
+- Reviewed HTTP response headers and documented a missing Content Security Policy.
+- Prepared supporting evidence, impact analysis, and remediation recommendations.
+
+### 6. Incident Response Plan
+
+Developed a hypothetical customer-data exposure scenario and a structured response plan following the six-phase NIST-style incident response lifecycle.
+
+**Highlights**
+- Detection and analysis
+- Containment and eradication
+- Recovery and post-incident review
+- Internal communication plan
+- Preventive security recommendations
+
+### 7. AI Security Journey
+
+Completed the five-section TryHackMe AI Security Pathway and documented learning across AI fundamentals, AI security, prompt security, AI supply-chain security, and data poisoning.
+
+The journey also includes completed AI Security CTFs, independent projects, and the InfoSecLabs *AI Security (The New Frontier)* learning credential.
+
+**[Explore the AI Security Journey](https://github.com/Muhammad-Usman-cyber/ai-security-journey)**
+
+---
+
+## 💼 Practical Experience
+
+My cybersecurity experience includes project-based internships and independent security research involving:
+
+- Security research and technical documentation
+- Web application and API security exercises
+- Vulnerability assessment in authorized environments
+- Security monitoring and incident response learning
+- Evidence-based reporting and remediation recommendations
+
+I have also submitted vulnerability reports through authorized disclosure programs, including a broken access-control report formally triaged through Intigriti.
+
+My research approach emphasizes reproducibility, technical evidence, accurate impact assessment, and responsible disclosure.
+
+---
+
+## 📚 Training & Achievements
+
+- **TryHackMe:** Top 1% globally, with 296+ rooms completed.
+- **Structured training:** 270+ hours of hands-on cybersecurity learning.
+- **TryHackMe learning paths:** SOC Level 1, Junior Penetration Tester, Web Application Pentesting, Web Application Red Teaming, Web Fundamentals, and AI Security.
+- **AI Security:** Completed the TryHackMe AI Security Pathway and InfoSecLabs *AI Security (The New Frontier)* learning path.
+- **Web security practice:** 30+ PortSwigger Web Security Academy labs.
+- **Professional learning:** Google Cybersecurity Professional Certificate, IBM & ISC2 Cybersecurity Specialist, and additional networking, Linux, and penetration-testing training.
+
+## 🔧 Core Technical Skills
+
+| Domain | Tools & Concepts |
+|---|---|
+| SIEM & Detection | Splunk Enterprise, SPL, Sysmon, MITRE ATT&CK |
+| Investigation | Windows Event Logs, log correlation, IOC extraction, incident response |
+| Web Security | Burp Suite, OWASP ZAP, OWASP Top 10, API security |
+| Networking | Nmap, Wireshark, TCP/IP, DNS, HTTP/S |
+| Systems | Kali Linux, Ubuntu, Windows, Bash |
+| AI Security | Prompt injection, LLM security, RAG security, data poisoning, AI supply-chain security |
+
+## 🚀 Career Focus
+
+I'm seeking **Junior SOC Analyst and entry-level cybersecurity opportunities**, including suitable remote roles.
+
+I'm particularly interested in teams where I can contribute to security monitoring, alert investigation, threat detection, and incident response while learning from experienced security professionals.
+
+I continue to develop my technical skills through practical projects, security research, and responsible experimentation.
+
+---
+
+## 📬 Connect With Me
+
+- **LinkedIn:** [Muhammad Usman Khurram](https://www.linkedin.com/in/muhammad-usman-cyber)
+- **GitHub:** [Muhammad-Usman-cyber](https://github.com/Muhammad-Usman-cyber)
+- **TryHackMe:** [MuhammadUsman7](https://tryhackme.com/p/MuhammadUsman7)
+- **Email:** [muhammadusman.khurram2007@gmail.com](mailto:muhammadusman.khurram2007@gmail.com)
+
+---
+
+*Learn → Practice → Investigate → Document → Improve*
+
